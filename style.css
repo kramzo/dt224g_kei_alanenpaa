@@ -3,3 +3,13 @@ body {
    font-family: Georgia, 'Times New Roman', Times, serif;
   color: rgb(217, 255, 236);
 }
+
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+.profile-picture {
+    max-width: 300px;
+    height: auto;
+}
